@@ -1,2 +1,2 @@
-# 01_ANALISIS_11_Especificaciones_Software
+# 01_ANALISIS_11_Especificaciones_software
 Repositorio Especificaciones software
